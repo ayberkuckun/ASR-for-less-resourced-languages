@@ -1,0 +1,240 @@
+Reference: könyökhajlásba kapta a maláj nyakát, és a dereka mellé szorította.
+Final:  konak kokat ail yscome ally sorpzata
+It: fognak hokage rock ott alig north il scederecome ally sorozata
+Fi: könjukhoilays bok loptak milan sokat aisha derekomälli sor torta
+Cz: konok honlap bo costa hol sokat i saderecomely sor torta
+*************************
+Reference: de uram teremtőm, hogy megtépázta a zuhogó eső meg a vad szél!
+Final:  ha uram turemt htärtag p t ihogy s ogombot sag
+It: ha uram teremt hold mik tag part sehogy sh gombot said
+Fi: jo uram tärämtööm hit miatti post ahogy ss maga vonni
+Cz: da uram tartom hoz mak te part oshogo ashumagowod sem
+*************************
+Reference: azt te tudod a legjobban, apjuk!
+Final:  astan apeuk
+It: ho start da nagyon ap uk
+Fi: asteetutotäläkiopan apjuk
+Cz: o este tu oldala gibson of jut
+*************************
+Reference: a kerék is jobban forog, ha kenik.
+Final:  ak i fogok hakni
+It: a ke rak six fogok haladni
+Fi: akäriakis jobban fogok hatni
+Cz: o marie ki jobban fogok hocanik
+*************************
+Reference: az meg ott egy újságfoszlány!
+Final:  aa  otta tal
+It: osama gotta bush ak first line
+Fi: ame lotte aisha foglal
+Cz: some got te jussak foglal
+*************************
+Reference: azt gondolták: most jön az ágyú!
+Final:  gonooi tetteonasadiu
+It: gondol tecmostionasadiu
+Fi: antonio lettek mostoha sääjuu
+Cz: a s gondol tak most je na zulu
+*************************
+Reference: ahá!
+Final:  ah
+It: aah
+Fi: ahol
+Cz: aha
+*************************
+Reference: az ám, de hol vannak a bérkocsik?
+Final:  slvonohoberkovik
+It: oda da hulvonoko berkochik
+Fi: sem täholvannakaberkotsik
+Cz: a nem ahol van na kabir konok
+*************************
+Reference: jártam már így.
+Final:  mata mar 
+It: mata marie
+Fi: kazetta marad
+Cz: jo tam mm re
+*************************
+Reference: én tudni fogom.
+Final:  ennnifogot
+It: engedni fogom
+Fi: en tutnifokam
+Cz: je jen tudni fogom
+*************************
+Reference: maguknak befellegzett!
+Final:  maguk na bgfkllnett
+It: maguk nagy befellegzett
+Fi: maguk na bäfällänsett
+Cz: maguk nakbefe lehet
+*************************
+Reference: a szerkesztéshez nem szükséges internet-kapcsolat, így számomra egyszerűbb az új cikkek írása.
+Final:  sarka sts has neas internet kaptuitsikkira
+It: sarka stace has nem sukcegach internet kaptunk itsamomretzaruposwizkkirash
+Fi: aserkästis has namsykikes internet kapcsolat is moira etserypas uitsikkä kira
+Cz: a srcaste is he nem sue as internet kapcsolat jog sámomra ette rum a z uk cica íráša
+*************************
+Reference: ez csak egy zavaró tévedés.
+Final:  s ciochezzavaroate evans
+It: e ciochezzavaro te evans
+Fi: is akit savaruutii v is
+Cz: s čakejt a daru ty ji vedd
+*************************
+Reference: ez beteges, de te nem vagy az.
+Final:  amber ten tags
+It: amber t gage the then hamu boys
+Fi: äsbertägäshdä ten vajas
+Cz: esbetagež date nem okoz
+*************************
+Reference: elindultam veled a messzi világba, de ha igazán szeretsz, vigyél vissza, kérlek, vigyél vissza!
+Final:  äliniultran vllaan ssiviae da igmnserezsdd elvis kerek vi dièagra
+It: allindultran vala i domessivi lamb da igoznserez vidd elvis kerek vi dièalvissa
+Fi: älintultaan väletomässi viagra dana igasänseret vijelvissa kerek vijelvissa
+Cz: elindul tam vele dom savi la-be da ho i gozserec visel sok jelek visel vita
+*************************
+Reference: nem, te csak magyarázatot adtál.
+Final:  nem eac jresa uta tal
+It: nem tachavmo teresa jut a tal
+Fi: nem jack morzsa utat till
+Cz: nem tara v maďěará a tud utal
+*************************
+Reference: mit tudja ezt egy likőrösállvány?
+Final:  ittelil cicero hatvör
+It: mi tu delta il cicero hatvan
+Fi: itt jästelikörsävän
+Cz: my tud teli korosálvaň
+*************************
+Reference: ne igyál előre a medve bőrére.
+Final:  nem  parlyra
+It: media la sora ma va partra
+Fi: nem jolly lyörää medve pyyriireä
+Cz: na ji dala fura maga bulira
+*************************
+Reference: bekapcsolta a gépet és megvárta, amíg beindul.
+Final:  bankok chloete pert   sbaindul
+It: bankok chloe e pert i schmackbert omigbaindoul
+Fi: bäkaptsoeltaa igent is megvert a mig beindul
+Cz: ba capčoval tegye pat is magyar o mig ban doyle
+*************************
+Reference: margit visszaköszönt, és megindult a lifthez.
+Final:  mar tissicksson esem gin dä
+It: morgan wissuckorson e csemege in delta lifthez
+Fi: mar kit vissackassant eshmägin tudta lift
+Cz: margtwis caclesont e smagindulta lev has
+*************************
+Reference: az üzletrész mértéke a tagok törzsbetétjéhez igazodik.
+Final:  okosllttek i ismertek smeoguptes hasigasodi 
+It: okos lettek i ismertek ho toguptushbtkyehasigasodich
+Fi: asyyslähteri ismertek avagy törsbäte keres hatodik
+Cz: ozuslatri s ortega o maguk tuřbaty texas iga sonic
+*************************
+Reference: el sem beszélte nénjeinek, mit látott odafönn a földi világban.
+Final:  lshem an barti nmeigna rain
+It: asher an bartlet nignainmitlatoraphnfeldivilakpon
+Fi: älshämbässieltä in mein mit lett odafenn fedi irakban
+Cz: l sam bevitte jan annak mit lÃ¡tod dave na folyik vi abban
+*************************
+Reference: fiúk, megvan.
+Final:  lyuk n
+It: lyuk nagyon
+Fi: tuck megvan
+Cz: fiuk ma gwan
+*************************
+Reference: nagyon segítőkész vagy.
+Final:  no j sharishägi ke
+It: no you sharif kezdi
+Fi: na jon shägitöö kedvez
+Cz: napon vak ja tu ki swat
+*************************
+Reference: fából vaskarika.
+Final:  fabio lsh cariaa
+It: fabio bush carina
+Fi: pääpool voskarika
+Cz: fábou lvaškarika
+*************************
+Reference: kicsit rendetlen?
+Final:  ki trtndi kal
+It: chi ki trendi kaland
+Fi: ki mit ränvätlän
+Cz: ki ten ve ten
+*************************
+Reference: aztán csupasz lábbal megtilolta a csalánt, és nekilátott szőni.
+Final:  von ctu pal mouplt oldala i snackyla hozzon
+It: aston chu postrappal motelt oldala i snackyla hozzon
+Fi: vastag csupa pal mäktilolta atsalänt ishnäkilät ot esni
+Cz: gaston csupa slápal nagy lova a halat is nacilatoceuny
+*************************
+Reference: simon bíró hajtja a lovat.
+Final:  shimaibro hhaalovat
+It: shimambro heikealovat
+Fi: shimanbii roo hacker lovat
+Cz: vi mm but noha i těalovat
+*************************
+Reference: a személyiségi jogokat személyesen lehet érvényesíteni.
+Final:  asem ishegioggo gake teriniec
+It: asszem ishegiougo hozzam change terminiecitani
+Fi: asemeishe giorgio kate miss lehet erin ja nyitni
+Cz: mi jaime giogokacemi je čenhad irviněšíteny
+*************************
+Reference: az ő kedvükért még a bot is megelevenedett.
+Final:  eu k e me shmegala veee lett
+It: eu kedwukye megadni schmegala vele lett
+Fi: as kädvykeet mik potishmäkälä vezetett
+Cz: az catwuc je maga botot magalevwenedet
+*************************
+Reference: ez nem más, mint hamupipőke.
+Final:  a unalmas mimhomoham
+It: a unalmas mit homo burke
+Fi: äsnämmäs mini thamopipökää
+Cz: aznap meg mit ho mu picike
+*************************
+Reference: azt tetted még csak jól!
+Final:  o siee t  iake
+It: o siet tad make tuck doyle
+Fi: as te t mi jake
+Cz: o stb tad mik sok jol
+*************************
+Reference: úgy látszik ennek a nagy világcsavargónak a vére ütött ki rajtam.
+Final:  uollarts che annasaviera ustkir
+It: tollat che anna can ogre vilaccio vagina kolera uttkiritham
+Fi: udlartsikännä kanos voltak savargunakavierä ytötkiraitam
+Cz: udlacican national iv nak chavargu jakob rumot ki roy tom
+*************************
+Reference: szalonkabát!
+Final:  aalonoabk
+It: falon cabe
+Fi: salonkabäät
+Cz: alan ha be
+*************************
+Reference: maga mondta!
+Final:  magamon
+It: maga mondta
+Fi: magamon
+Cz: magamon
+*************************
+Reference: aki sokat ígér, keveset ad.
+Final:  aki svaset od
+It: hoki sokat igen tavasz et oda
+Fi: aki sokat igen keveset ad
+Cz: oly sokat egan javaslat ot
+*************************
+Reference: pillantása végigfutott rajta tetőtől talpig.
+Final:  pilill toaaitatetter titarpii ve
+It: pilonteshavigi fu totraitatetter turtarpig
+Fi: pillanat two haiti vetetni tätätöötöötarpik
+Cz: pi lantáša vi gicuta traitata toto el ig
+*************************
+Reference: ezért jobb lesz, ha elhagyom a várost, és nyugodtabb helyre vitorlázom.
+Final:  ashtobaestohros nÃ¡poannyira vitorgott
+It: ashton bass hartodiomabaros e newport annyira vitorlasom
+Fi: asietiobless halhatok vÃ¡rost e snugottap hiro victor lakom
+Cz: siet wales hol ho roma várošt innen goran hiravý tor lakom
+*************************
+Reference: egy rendőrtiszt előrelépett.
+Final:  e g granddtistrti lehet
+It: a grand autista akkora lehet
+Fi: e grändörtist olyan lopott
+Cz: brando orvost a fura li pet
+*************************
+Reference: attól félek, hogy ketten kevesen leszünk hozzá.
+Final:  a volt-e coletten je 
+It: otto volt-e colette enyhe a vescianlec un jose
+Fi: attÃ³l fieläkhot ketten kävässällä synkhossää
+Cz: a hol falak hoďkattanka ve sanlesinchose
+*************************
